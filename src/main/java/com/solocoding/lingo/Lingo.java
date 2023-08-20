@@ -23,16 +23,16 @@ public class Lingo {
     /// JScrollPane scroll ;/// = new JScrollPane(pan);
     ///scroll.setVisible( rootPaneCheckingEnabled)
     public Lingo(){
-        tableController = new alphabetsController();
-        table = new alphPanel(tableController.getAlphaNodes());
-        PanelsContainer.addPanel("table", table);
-        
-        quiz = new QuizTaker();
-         quizPanel = new QuizPanel(quiz);
-        PanelsContainer.addPanel("quizPanel", quizPanel);
-        
-         flashCards = new FlashCard();
-        PanelsContainer.addPanel("flashCards", flashCards);
+//        tableController = new alphabetsController();
+//        table = new alphPanel(tableController.getAlphaNodes());
+//        PanelsContainer.addPanel("table", table);
+//        
+//        quiz = new QuizTaker();
+//        quizPanel = new QuizPanel(quiz);
+//        PanelsContainer.addPanel("quizPanel", quizPanel);
+//        
+//         flashCards = new FlashCard();
+//        PanelsContainer.addPanel("flashCards", flashCards);
     
     
     }
