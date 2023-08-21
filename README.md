@@ -1,6 +1,6 @@
 # ArabicLingoMavenUpdate
 This is the updated version of https://github.com/codenson/ArabicLingo where the main purpose of this version is to work with JAVA MAVEN to produce a working jar file 
-to access the content of this desktop app on other machines without the need to compile it the program everytime. 
+to access the content of this desktop app on other machines without the need to compile the program everytime. 
 link to jar : https://github.com/codenson/ArabicLingoMavenUpdate/tree/master/target  my-app-1.0-SNAPSHOT.jar
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Arabic Alphabets Java Desktop App
